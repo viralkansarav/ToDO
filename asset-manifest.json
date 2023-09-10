@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/viralkansarav/ToDo/static/css/main.1f237c09.css",
+    "main.js": "/viralkansarav/ToDo/static/js/main.9d5ad3dd.js",
+    "index.html": "/viralkansarav/ToDo/index.html",
+    "main.1f237c09.css.map": "/viralkansarav/ToDo/static/css/main.1f237c09.css.map",
+    "main.9d5ad3dd.js.map": "/viralkansarav/ToDo/static/js/main.9d5ad3dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f237c09.css",
+    "static/js/main.9d5ad3dd.js"
+  ]
+}
